@@ -1,6 +1,10 @@
 from source import Source
-print('Hello world')
+print('MY AWESOME PROJECT')
 s = Source()
 print(s.msg)
-print("it is V2.0")
-
+print("new feature in 'new_feture' branch")
+print("Now it's version V1.0")
+print("Now it's version V2.0")
+print("Now it's version V3.0")
+print("Now it's version V5.0")
+print("Now it's version V6.0")
